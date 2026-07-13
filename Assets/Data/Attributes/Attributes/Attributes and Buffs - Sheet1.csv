@@ -1,0 +1,20 @@
+,,,,,,,,,
+Attribute,Buff 1, B1 Min,B1 Max,Buff 2,B2 Min, B2 Max,Buff 3,B3 Min,B3 Max
+War,Strength,10%,25%,Team Damage,5%,15%,Crit Damage,5%,10%
+Ocean,Swim Speed,20%,50%,Water Resistance,15%,40%,Stamina,5%,20%
+Death,Lifesteal,3%,12%,Execute Damage,5%,15%,Poison Resist,10%,30%
+Nature,Regen,10%,30%,Gathering Yield,20%,50%,Healing,2%,6%
+Crafting,Craft Speed,25%,75%,Efficiency,10%,30%,Durability,5%,20%
+Leadership,Companion Damage,10%,30%,Companion Health,15%,40%,Shop Discount,5%,20%
+Wisdom,XP Gain,10%,40%,Skill XP,12%,50%,Learning,10%,25%
+Lightning,Speed,10%,25%,Chain Damage,5%,20%,Attack Speed,5%,15%
+Speed,Sprint Speed,10%,30%,Dodge Speed,15%,35%,Attack Speed,5%,20%
+Charm,Shop Prices,5%,20%,Dialogue Success,10%,40%,Recruitment,15%,50%
+Endurance,Health,10%,40%,Stamina,10%,35%,Resistance,5%,15%
+Cosmic,Mana,20%,80%,Cooldown Reduction,5%,25%,Ability Chance,1%,10%
+Fire,Fire Damage,15%,40%,Burn Chance,5%,20%,Fire Resist,20%,50%
+Time,Cooldown Reduction,10%,30%,Reaction Speed,10%,20%,Slow Time,5%,20%
+Melee,Melee Damage,10%,35%,Combo Damage,10%,25%,Attack Speed,5%,15%
+Range,Ranged Weapon Damage,10%,30%,Accuracy,20%,50%,Crit Chance,5%,15%
+Combat,Damage,5%,20%,Defense,50%,15%,Stagger Resist,10%,30%
+Peace,Regen,5%,20%,Resistance,10%,25%,Healing,5%,15%
